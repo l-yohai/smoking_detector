@@ -44,7 +44,7 @@ After saving the model, run the code below.
 python3 detect_smoking.py -m YOUR_MODEL_NAME
 ```
 
-### Eval
+### Model Performance
 
 ![screenshot](./images/training.png)
 
