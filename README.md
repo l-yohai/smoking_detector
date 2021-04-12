@@ -1,8 +1,3 @@
-# reference
-
-https://github.com/carolinedunn/face_mask_detection
-
-
 # Smoking detector
 
 ![No smoking with mask](./images/no_smoking_with_mask.jpeg)
@@ -51,4 +46,8 @@ python3 detect_smoking.py -m YOUR_MODEL_NAME
 
 ### Eval
 
-![screenshot](training.png)
+![screenshot](./images/training.png)
+
+### reference
+
+https://github.com/carolinedunn/face_mask_detection
